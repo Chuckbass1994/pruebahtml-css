@@ -1,0 +1,15 @@
+EX 1 :
+
+
+<!DOCTYPE html>
+<html>
+<head>
+        <title>HTML & CSS</title>
+</head>
+<body>
+        <h1 style="color:black;">Ecabenzado H3 con Arial y tamano fuente 24px</h1>
+        
+    </body>        
+</html>
+
+

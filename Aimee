@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>HTML & CSS </title>
+        <style>
+        <body>{background-color:lightgray;}
+        h1{color:darkblue;}
+        p{color:darkviolet;font-size:150%}
+        </style>
+        
+    </head>
+    <body>
+        <h1>Titulo:I Want you Now i'am waiting for Youuuuu  Aimeeeeee </h1>
+        <p>i'am Learning This for have a better Job </p>
+        Texto normal
+    </body>
+    
+    
+
+
+</html>

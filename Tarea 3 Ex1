@@ -1,0 +1,15 @@
+EX 1 :
+
+
+<!DOCTYPE html>
+<html>
+<head>
+        <title>HTML & CSS</title>
+</head>
+<body>
+        <h1 style="color:green;"> H2 color verde"</h1>
+        <p style="color:green;">Este parrafo tiene fondo amarillo</p>
+        <p style="color:red;blackground-color:yellow">Texto de color y fondo amarillo</p>
+        <p style="color:blue;border:2px solid red">Texto de color navy </p>
+    </body>        
+</html>
